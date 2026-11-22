@@ -152,4 +152,4 @@ python lista3/3A-iguais.py
 
 ## Autora
 
-**Julia Vitoria** — [vjuli4](https://github.com/vjuli4)
+**Júlia Vitória** — [vjuli4](https://github.com/vjuli4)
